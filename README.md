@@ -1,5 +1,7 @@
 # Breathe — daily zen
 
+**Live:** https://zenquotes.100dayaichallenge.com
+
 A calm daily quote app built on the [ZenQuotes API](https://zenquotes.io/). Not a quote shuffler: today's shared quote fades in **line by line, paced to a breathing orb** (a real ~4s inhale / 6s exhale rhythm), so reading it becomes one slow breath instead of a text dump.
 
 Day 24 of Savion's [100 Day AI Build Challenge](https://www.100dayaichallenge.com/share/savion).
